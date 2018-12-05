@@ -43,7 +43,6 @@
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
     "react-router-redux": "^4.0.8",
-    "react-router-relay": "^0.14.0",
     "redux-devtools-extension": "^2.13.5",
     "redux-logger": "^3.0.6",
     "sass-loader": "^6.0.7",
