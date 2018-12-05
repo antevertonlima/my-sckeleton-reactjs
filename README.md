@@ -1,6 +1,6 @@
 # La aplicación necesita de la version 8.x nodejs
 
-## Para levantar es necesario los siguientes modulos 
+## Es necesario los siguientes modulos 
 
 ### Instalar webpack 
 - npm install -g webpack
