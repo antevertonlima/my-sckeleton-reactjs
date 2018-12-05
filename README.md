@@ -1,6 +1,6 @@
-La aplicación necesita de la version 8.x nodejs
+# La aplicación necesita de la version 8.x nodejs
 
-# Para levantar es necesario los siguientes modulos 
+## Para levantar es necesario los siguientes modulos 
 
 ### Instalar webpack 
 - npm install -g webpack
@@ -11,7 +11,7 @@ La aplicación necesita de la version 8.x nodejs
 ### Instalar yarn
 - npm install -g yarn
 
-# Para levantar la aplicación
+## Para levantar la aplicación
 - yarn install 
 - yarn dev
 
